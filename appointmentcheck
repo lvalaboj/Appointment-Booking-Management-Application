@@ -2,7 +2,6 @@
  * Last updated Sep 26, 2021
  */
 
-#include "hw5.h"
 
 #include <assert.h>
 #include <stdio.h>
